@@ -1,6 +1,6 @@
 public class Drink {
     String name;
-    int rating;
+    double price;
     boolean alcohol;
     Ingredient ingredient1;
     Ingredient ingredient2;
